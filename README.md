@@ -1,7 +1,10 @@
-<img src='https://i.ibb.co/2Fnbz3V/114239186.png' width=100>
+<p align="center">
+<img src='https://i.ibb.co/2Fnbz3V/114239186.png' width=100></p>
+<h1 align="center">
+Palera1n-GUI
+</h1>
 
-# Palera1n-GUI
-A simple Automator script to add a graphic interface to palera1n
+A simple Automator script to add a graphic interface to palera1n based on [palera1n](https://github.com/palera1n/palera1n)
 ## Features
 ### Included
 - Auto-downloading palera1n from official repo
